@@ -1,0 +1,14 @@
+{
+  "name": "thesis-skills",
+  "owner": {
+    "name": "thesis-skills maintainers"
+  },
+  "plugins": [
+    {
+      "name": "thesis-skills",
+      "source": "./",
+      "description": "Theme finding, chapter write-critique-revise loops with global rule memory, and consolidation for paper-based PhD theses."
+    }
+  ],
+  "description": "Skills for turning a PhD student's published papers into a coherent LaTeX thesis."
+}

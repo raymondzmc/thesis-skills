@@ -1,0 +1,5 @@
+\chapter{First}
+We use a pre-trained encoder and a neural topic model (NTM) \citep{a}.
+The modeling choices follow earlier work.
+
+The encoder reads every document once and writes a short summary vector for each topic slot, then a small decoder rebuilds the bag of words from those slots so that training stays cheap and stable across runs.

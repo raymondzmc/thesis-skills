@@ -1,0 +1,16 @@
+{
+  "name": "thesis-skills",
+  "version": "0.1.0",
+  "description": "Turn a folder of a PhD student's papers into a LaTeX thesis: find the theme with the student, write and critique chapters with fresh agents and a thesis-wide rule memory, then consolidate the chapters.",
+  "license": "MIT",
+  "keywords": [
+    "thesis",
+    "dissertation",
+    "academic-writing",
+    "latex",
+    "phd"
+  ],
+  "author": {
+    "name": "thesis-skills contributors"
+  }
+}
